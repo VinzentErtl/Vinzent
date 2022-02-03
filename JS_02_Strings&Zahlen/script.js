@@ -1,7 +1,7 @@
 let a = 7;
 let b = 8;
 
-let ab = a - b;
+let ab = a + b;
 
 // +, -, *, /
 
@@ -16,4 +16,4 @@ console.log(result);
 let Name = "Vinzent";
 console.log(Name);
 
-console.log("Das Ergebnis von" + a "und" + b+ "ist" + ab);
+console.log("Das Ergebnis von " + a + " und " + b + " ist " + ab);
