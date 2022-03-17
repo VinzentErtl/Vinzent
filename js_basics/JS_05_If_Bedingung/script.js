@@ -13,8 +13,7 @@ else {
 
 let a = 55;
 // Test
-// top
- 
+
 if (a < 20) {
     console.log("mini");dir
 } 
